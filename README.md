@@ -10,4 +10,11 @@ To run the project, please do the following steps:
 ### yarn run start
 
 
+or 
+
+
+### npm install
+### npm run start
+
+
 
