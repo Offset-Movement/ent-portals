@@ -1,8 +1,6 @@
 # Portals of EntDAO
 
-Decentralized Autonomous Organicity 
-
-Of all livings, starting with those livings in urban scenes.
+A Decentralized Autonomous Organicity of all livings, starting with those in urban scenes.
 
 All participants registered there will have a crypto wallet, account(s) and a decentralized id/ DID.
 
@@ -14,6 +12,8 @@ Back in 5-6 February, co-imagined and developed during [Sovereign Nature Initiat
 
 Project treats all livings as assets, rather than resources. 
 
+[Trees as Infrastructure](https://treesasinfrastructure.com) project is somehow resonating with our approach and feelings, and we've been inspired by the research they've been through.
+
 Here, in fact we wanted to give a voice to nature through the actions-history of the stewards, and what decisions made together for local, energy consumption targets making. 
 
-Trees in fact becoming portals to such stories, and means of connection and be socio-economic and democratic catalyzers and mind shifters via their empowerment on following scientific rulesets on those decision-making of their beloved stewards.
+Trees in fact become portals to such stories, and means of connection and be socio-economic and democratic catalyzers and mind shifters via their empowerment on following scientific rulesets on those decision-making of their beloved stewards.
