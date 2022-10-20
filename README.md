@@ -16,4 +16,7 @@ Project treats all livings as assets, rather than resources.
 
 Here, in fact we wanted to give a voice to nature through the actions-history of the stewards, and what decisions made together for local, energy consumption targets making. 
 
+Here's how we have co-imagined that:
+https://miro.com/app/board/uXjVOX1nmp0=/?invite_link_id=477303052050
+
 Trees in fact become portals to such stories, and means of connection and be socio-economic and democratic catalyzers and mind shifters via their empowerment on following scientific rulesets on those decision-making of their beloved stewards.
