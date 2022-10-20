@@ -1,4 +1,4 @@
-# EntDAO
+# Portals for EntDAO
 
 Decentralized Autonomous Organicity 
 
