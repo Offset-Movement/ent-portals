@@ -1,10 +1,17 @@
 # Portals of EntDAO
 
-A Decentralized Autonomous Organicity of all livings, starting with those in urban scenes.
 
-All participants registered there will have a crypto wallet, account(s) and a decentralized id/ DID.
+A Decentralized Autonomous Organicity of people, and the other livings, starting with animals and plants in urban areas.
 
-Among those, people will get to represent the others as they care, steward and support the wellbeing of those identified and registered plants and animals.
+People will be gaininng power of representation/delegation, through their support, care, stewardship activities around wellbeing of those livings. 
+
+Hence, altogether, realize [liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy), a continuous, revokable, direct decision-making experience in energy consumption target-making: Locally and globally, while reflecting nature positively and constantly via real-time data and scientific rulesets empowering other livings on having a voice on offset decision makings.
+
+Peope are of course, will be using their own vote with their free will, however, other livings will have a substantial weight here on climate-positive resolutions, as well as them, rewarding people that care, with their identities, wallets, accounts on blockchain.
+
+Giving voice to nature, is not all about an inclusion in decision-making. It's also, that those portals are where we'll be observing the story of that neighbourhoods' activities in time, on the are-taking; while we'll be generating artworks through all those data and interactions.
+
+## Background
 
 Back in 5-6 February, co-imagined and developed during [Sovereign Nature Initiative's (northern) Winter 2022 Hackathon](https://sovereignnature.com/winter-2022-hackathon-challenge)
 
