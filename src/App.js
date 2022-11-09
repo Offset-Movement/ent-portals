@@ -30,9 +30,14 @@ console.log(trees.features.length)
 function App() {
   const mapContainer = useRef(null);
   const map = useRef(null);
-  const [lng, setLng] = useState(trees.features[69000].geometry.coordinates[0]);
-  const [lat, setLat] = useState(trees.features[69000].geometry.coordinates[1]);
-  const [zoom, setZoom] = useState(20);
+
+  // change start point to Vondelpark, Amsterdam
+  const [lng, setLng] = useState('4.8672965666724375'); // 
+  const [lat, setLat] = useState('52.35732625243595');
+  
+  const [zoom, setZoom] = useState(17);
+  // const [lng, setLng] = useState(trees.features[69000].geometry.coordinates[0]);
+  // const [lat, setLat] = useState(trees.features[69000].geometry.coordinates[1]);
   const [selectModel, setselectModel] = useState(null);
   const [popup, setPopup] = useState(0);
 
