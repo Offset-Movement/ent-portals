@@ -11,6 +11,10 @@ Peope are of course, will be using their own vote with their free will, however,
 
 Giving voice to nature, is not all about an inclusion in decision-making. It's also, that those portals are where we'll be observing the story of that neighbourhoods' activities in time, on the are-taking; while we'll be generating artworks through all those data and interactions.
 
+When the app is opened, zoom-out a little and see the trees, and click one to see a card nearby, ready to tell stories through.. 
+
+(as-is, that's all we got. to be continued ...)
+
 ## Background
 
 Back in 5-6 February, co-imagined and developed during [Sovereign Nature Initiative's (northern) Winter 2022 Hackathon](https://sovereignnature.com/winter-2022-hackathon-challenge)
