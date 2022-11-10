@@ -67,7 +67,7 @@ function App() {
           console.log(e.detail);
           map.current.flyTo({
             center: e.detail.coordinates,
-            zoom: 19,
+            zoom: 16,
             bearing: 0,
             pitch:70,
             speed: 1, 
