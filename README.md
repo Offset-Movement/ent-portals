@@ -19,7 +19,7 @@ When the app is opened, zoom-out a little and see the trees, and click one to se
 
 Back in 5-6 February, co-imagined and developed during [Sovereign Nature Initiative's (northern) Winter 2022 Hackathon](https://sovereignnature.com/winter-2022-hackathon-challenge)
 
-![entDAO portals](https://i.imgur.com/aqimMTz.png)
+![entDAO portals](https://i.imgur.com/PCw4wB5.png)
 
 Project treats all livings as assets, rather than resources. 
 
