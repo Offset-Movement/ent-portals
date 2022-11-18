@@ -1,4 +1,4 @@
-# Portals of EntDAO
+# Portals of EntDAO ~ "Be a Tree"
 
 
 A Decentralized Autonomous Organicity of people, and the other livings, starting with animals and plants in urban areas.
