@@ -21,7 +21,9 @@ import buildings from './buildings.json'
 import {Threebox} from 'threebox-plugin'
 import trees from './geojson_lnglat.php.json'
 import Card from "./Card"
-mapboxgl.accessToken = 'pk.eyJ1Ijoic3dhZ2d5bWFyaWUiLCJhIjoiY2t6YWIwMmJ4MDVsazJvc2F1OGgyZng3ZCJ9.DwdPX1NESbr-69ReQRu6XA';
+var config = require('../src/config.json');
+
+mapboxgl.accessToken = config.mapboxglAccessToken;
 
 console.log(trees.features[69000].properties.SOORT_KORT);
 console.log(trees.features[69000].geometry.coordinates[0], trees.features[69000].geometry.coordinates[1]);
@@ -67,7 +69,7 @@ function App() {
           console.log(e.detail);
           map.current.flyTo({
             center: e.detail.coordinates,
-            zoom: 16,
+            zoom: 18,
             bearing: 0,
             pitch:70,
             speed: 1, 
@@ -168,7 +170,6 @@ function App() {
   });
   return( 
     <div id="container">
-      {/* <div className="sidebar">Longitude: {lng} | Latitude: {lat} | Zoom: {zoom}</div> */}
       <div ref={mapContainer} className="map-container" style={{width: window.innerWidth, height: window.innerHeight}}/>
       {
         popup && <Card name={selectModel.userData.obj.slice(1, -4)}/>
